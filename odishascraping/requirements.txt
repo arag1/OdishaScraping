@@ -122,7 +122,7 @@ tornado==4.2
 transitions==0.4.3
 tzwhere==2.3
 uritemplate==3.0.0
-urllib3==1.21.1
+urllib3==1.24.2
 usaddress==0.5.10
 vine==1.1.4
 WeasyPrint==0.42.3
