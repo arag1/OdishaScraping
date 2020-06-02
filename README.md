@@ -1,4 +1,4 @@
-#OdishaScraping
+# OdishaScraping
 This project is a multi-threaded web scraper using selenium
 The odishascraping/README.txt has the instructions to run the program
 the scraper pulls data from district level information for the Indian Province
