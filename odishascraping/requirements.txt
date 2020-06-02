@@ -74,7 +74,7 @@ Pillow==4.0.0
 pox==0.2.4
 ppft==1.6.4.8
 probableparsing==0.0.1
-psutil==5.4.2
+psutil==5.6.6
 pyasn1==0.4.4
 pyasn1-modules==0.2.2
 pycairo==1.16.2
