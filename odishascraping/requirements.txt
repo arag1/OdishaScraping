@@ -40,7 +40,7 @@ google-api-python-client==1.6.4
 gspread==0.6.2
 haversine==0.4.5
 html5lib==0.999999999
-httplib2==0.11.3
+httplib2==0.18.0
 idna==2.5
 ipaddress==1.0.17
 jdcal==1.4
