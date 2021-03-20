@@ -44,7 +44,7 @@ httplib2==0.11.3
 idna==2.5
 ipaddress==1.0.17
 jdcal==1.4
-Jinja2==2.10
+Jinja2==2.11.3
 jira==1.0.9
 jmespath==0.9.3
 keyring==10.6.0
