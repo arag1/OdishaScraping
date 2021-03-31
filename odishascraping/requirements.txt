@@ -50,7 +50,7 @@ jmespath==0.9.3
 keyring==10.6.0
 keyrings.alt==3.0
 kombu==4.2.1
-lxml==3.6.4
+lxml==4.6.3
 m3-cdecimal==2.3
 mandrill==1.0.57
 MarkupSafe==1.0
