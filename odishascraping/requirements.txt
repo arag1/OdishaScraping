@@ -64,7 +64,7 @@ olefile==0.46
 openpyxl==2.5.1
 ordereddict==1.1
 pandas==0.19.2
-paramiko==2.1.1
+paramiko==2.10.1
 pathos==0.2.1
 pbr==4.3.0
 pdfkit==0.6.1
