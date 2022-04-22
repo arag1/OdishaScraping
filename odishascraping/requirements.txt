@@ -86,7 +86,7 @@ pygmail==0.0.5.4
 pygobject==3.26.1
 PyICU==1.9.8
 pyodbc==4.0.1
-PyPDF2==1.26.0
+PyPDF2==1.27.5
 Pyphen==0.9.5
 pypvwatts==2.0.2
 python-crfsuite==0.9.6
