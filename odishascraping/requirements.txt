@@ -113,7 +113,7 @@ six==1.11.0
 slackclient==1.2.1
 slacker==0.9.65
 SQLAlchemy==1.0.16
-supervisor==3.3.1
+supervisor==3.3.3
 tabulate==0.8.2
 tika==1.15
 timezonefinder==1.5.7
